@@ -45,6 +45,9 @@ public class PriceAlertScheduler {
 
                 // Set the flag to true so we don't send the alert again
                 this.alertTriggered = true;
+
+                System.out.println("... Shutting down application.");
+                System.exit(0);
             }
         }
     }
