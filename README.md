@@ -28,7 +28,7 @@ This is a non-web application and does not expose any API endpoints. Its sole pu
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/crypto-price-alert.git
+git clone https://github.com/OnuegbuUdochukwu/crypto-price-alert.git
 ```
 
 Navigate to the project directory:
